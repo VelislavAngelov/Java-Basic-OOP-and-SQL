@@ -1,6 +1,3 @@
-# velislav-angelov
-
-
 
 ## Getting started
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Basic-OOP-and-SQL/Basics/Basics.iml" filepath="$PROJECT_DIR$/Java-Basic-OOP-and-SQL/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basic-OOP-and-SQL.iml" filepath="$PROJECT_DIR$/.idea/Java-Basic-OOP-and-SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basic-OOP-and-SQL/OOP/OOP.iml" filepath="$PROJECT_DIR$/Java-Basic-OOP-and-SQL/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Basic-OOP-and-SQL/SQL/SQL.iml" filepath="$PROJECT_DIR$/Java-Basic-OOP-and-SQL/SQL/SQL.iml" />
+    </modules>
+  </component>
+</project>

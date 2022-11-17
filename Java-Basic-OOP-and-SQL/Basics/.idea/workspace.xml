@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00cdaa45-8b43-461c-b456-e44625ba5056" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gr0Wv08BBEzmTJR5Kr9r9tabvD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/angel/codeAcademy/velislav-angelov/JavaBasicsCode/Basics&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.OddOrEven">
+    <configuration name="CurrencyExchangeBureauVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_7_VariablesExercises.CurrencyExchangeBureauVariables" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_7_VariablesExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Figlets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectureTask_21_06_2022.Figlets" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectureTask_21_06_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NRAMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectureTask_05_06_2022.NRAMachine" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectureTask_05_06_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddOrEven" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_13_DataInputAndOutput.OddOrEven" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_13_DataInputAndOutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OvalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_8_MathematicalOperations.OvalSquare" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_8_MathematicalOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfSines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_8_MathematicalOperations.SumOfSines" />
+      <module name="Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_8_MathematicalOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Figlets" />
+        <item itemvalue="Application.NRAMachine" />
+        <item itemvalue="Application.OvalSquare" />
+        <item itemvalue="Application.SumOfSines" />
+        <item itemvalue="Application.CurrencyExchangeBureauVariables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00cdaa45-8b43-461c-b456-e44625ba5056" name="Changes" comment="" />
+      <created>1667131430653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667131430653</updated>
+      <workItem from="1667131431851" duration="967000" />
+      <workItem from="1667138366400" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+</project>

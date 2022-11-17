@@ -42,13 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/angel/IdeaProjects/Java-Basic-OOP-and-SQL",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/angel/IdeaProjects/Java-Basic-OOP-and-SQL&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\angel\codeAcademy\velislav-angelov\JavaBasicsCode\SQL" />
@@ -149,6 +149,7 @@
       <workItem from="1668588191667" duration="4123000" />
       <workItem from="1668692376610" duration="287000" />
       <workItem from="1668692815909" duration="2550000" />
+      <workItem from="1668695568816" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="Add homeWork 5">
       <created>1661172066885</created>
@@ -220,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668694345831</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Java Basic,OOP and SQL">
+      <created>1668695773812</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668695773812</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
